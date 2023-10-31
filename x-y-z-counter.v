@@ -9,6 +9,9 @@
 *
 */
 
+input logic a;
+logic [1:0] x, y, z;
+
 always @(posedge clk) begin
   if (reset) begin
       x <= 0; y <= 1; z <= 2;
