@@ -2,6 +2,7 @@ module NAND3 (A1, A2, A3, ZN);
    input A1;
    input A2;
    input A3;
+   wire i_8, i_9;
    output ZN;
 
    not(ZN, i_8);
