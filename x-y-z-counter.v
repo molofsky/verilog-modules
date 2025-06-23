@@ -18,7 +18,7 @@ always @(posedge clk) begin
   end
   else if (a == 0) begin
       z <= y + 2;
-      y <= z:
+      y <= z;
       x <= y;
   end
 end
