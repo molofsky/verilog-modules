@@ -1,4 +1,4 @@
-# simple-circuits
+# verilog-modules
 
 A collection of Verilog modules for digital logic and hardware verification.
 
