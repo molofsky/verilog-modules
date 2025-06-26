@@ -1,4 +1,4 @@
-# verilog-modules
+# Verilog Modules
 
 A collection of fundamental Verilog modules for digital logic and hardware verification.
 
