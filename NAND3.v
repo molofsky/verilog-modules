@@ -1,4 +1,5 @@
-/* Three-input NAND gate that outputs the boolean function ZN = ~(A1 & A2 & A3)
+/* 
+* Three-input NAND gate that outputs the boolean function ZN = ~(A1 & A2 & A3).
 *
 * @author Adrian Molofsky
 * @version 11/30/23 
