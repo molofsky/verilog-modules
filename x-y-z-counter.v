@@ -1,5 +1,4 @@
 /* 
-*
 * Verification Example:
 * The value of y is always supposed to be x + 1
 * The value of z is always supposed to be y + 1
