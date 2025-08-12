@@ -1,4 +1,5 @@
 /*
+* Unreachable State Example:
 * Create an inductive case for x1 <= 6
 * Fails for x1 = 6 which is not reachable from initial state x1 = 0
 *
