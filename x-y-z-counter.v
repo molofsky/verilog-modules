@@ -5,7 +5,6 @@
 *
 * @author Adrian Molofsky
 * @version 10/31/23
-*
 */
 
 input logic a;
